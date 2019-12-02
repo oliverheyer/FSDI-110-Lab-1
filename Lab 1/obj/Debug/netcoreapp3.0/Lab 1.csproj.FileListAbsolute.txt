@@ -1,0 +1,11 @@
+/Users/Oliver/Desktop/Full Stack Coding Work/Lab 1/bin/Debug/netcoreapp3.0/Lab 1
+/Users/Oliver/Desktop/Full Stack Coding Work/Lab 1/bin/Debug/netcoreapp3.0/Lab 1.deps.json
+/Users/Oliver/Desktop/Full Stack Coding Work/Lab 1/bin/Debug/netcoreapp3.0/Lab 1.runtimeconfig.json
+/Users/Oliver/Desktop/Full Stack Coding Work/Lab 1/bin/Debug/netcoreapp3.0/Lab 1.runtimeconfig.dev.json
+/Users/Oliver/Desktop/Full Stack Coding Work/Lab 1/bin/Debug/netcoreapp3.0/Lab 1.dll
+/Users/Oliver/Desktop/Full Stack Coding Work/Lab 1/bin/Debug/netcoreapp3.0/Lab 1.pdb
+/Users/Oliver/Desktop/Full Stack Coding Work/Lab 1/obj/Debug/netcoreapp3.0/Lab 1.csprojAssemblyReference.cache
+/Users/Oliver/Desktop/Full Stack Coding Work/Lab 1/obj/Debug/netcoreapp3.0/Lab 1.AssemblyInfoInputs.cache
+/Users/Oliver/Desktop/Full Stack Coding Work/Lab 1/obj/Debug/netcoreapp3.0/Lab 1.AssemblyInfo.cs
+/Users/Oliver/Desktop/Full Stack Coding Work/Lab 1/obj/Debug/netcoreapp3.0/Lab 1.dll
+/Users/Oliver/Desktop/Full Stack Coding Work/Lab 1/obj/Debug/netcoreapp3.0/Lab 1.pdb
